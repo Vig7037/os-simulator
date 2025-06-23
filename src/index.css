@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* text selection color */
+::selection {
+  color: #4B2473;
+  background: #C6A4FB;
+}
+/* Code for Firefox */
+::-moz-selection { 
+  color: #4B2473;
+  background: #C6A4FB;
+}
