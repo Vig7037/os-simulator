@@ -33,7 +33,7 @@ const Navbar = () => {
           {/* github repo link */}
           <div className='flex items-center'> 
             <a
-              href="https://github.com/PradeepPs04/TimeSlice-OS-Algorithms-Simulator"
+              href="https://github.com/Vig7037/os-simulator"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white hover:text-indigo-300 transition-colors duration-200"
